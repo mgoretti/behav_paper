@@ -1,0 +1,24 @@
+		(1)	(2)	(3)	(4)
+VARIABLES	LABELS	ownPayoff	ownPayoff	socialPayoff	socialPayoff
+					
+age	age	0.129*	0.129*	0.258*	0.258*
+		(0.066)	(0.066)	(0.132)	(0.132)
+comm	comm	0.786***	0.786***	1.573***	1.573***
+		(0.161)	(0.161)	(0.322)	(0.322)
+age_diff	age_diff	-0.039	-0.039	-0.078	-0.078
+		(0.122)	(0.122)	(0.243)	(0.243)
+1.groupGender	groupGender = 1, FF	0.481**		0.961**	
+		(0.217)		(0.435)	
+2.groupGender	groupGender = 2, MF	0.443*	-0.038	0.491	-0.470
+		(0.236)	(0.238)	(0.390)	(0.392)
+3.groupGender	groupGender = 3, FM	0.048	-0.432*	0.491	-0.470
+		(0.260)	(0.260)	(0.390)	(0.392)
+0.groupGender	groupGender = 0, MM		-0.481**		-0.961**
+			(0.217)		(0.435)
+Constant	Constant	3.721***	4.202***	7.443***	8.404***
+		(0.743)	(0.754)	(1.487)	(1.508)
+					
+Observations		2,394	2,394	2,394	2,394
+R-squared		0.031	0.031	0.076	0.076
+Robust standard errors in parentheses					
+*** p<0.01, ** p<0.05, * p<0.1					

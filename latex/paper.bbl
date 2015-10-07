@@ -1,0 +1,43 @@
+\begin{thebibliography}{6}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Balliet et~al.(2011)Balliet, Li, Macfarlan, and Van~Vugt]{balliet}
+D.~Balliet, N.~P. Li, S.~J. Macfarlan, and M.~Van~Vugt.
+\newblock Sex differences in cooperation: A meta-analytic review of social
+  dilemmas.
+\newblock \emph{Psychological Bulletin}, 2011.
+
+\bibitem[Benensona et~al.(2007)Benensona, Pascoeb, and Radmoreb]{benen}
+Joyce~F. Benensona, Joanna Pascoeb, and Nicola Radmoreb.
+\newblock Children’s altruistic behavior in the dictator game.
+\newblock \emph{Evolution and Human Behavior}, 2007.
+
+\bibitem[Càrdenas et~al.(2011)Càrdenas, Dreber, von Essen, and
+  Ranehill]{card}
+Juan-Camilo Càrdenas, Anna Dreber, Emma von Essen, and Eva Ranehill.
+\newblock Gender and cooperation in children: Experiments in colombia and
+  sweden.
+\newblock \emph{EFI Working Paper Series in Economics and Finance}, 2011.
+
+\bibitem[Fehr et~al.(2008)Fehr, Bernhard, and Rockenbach]{fehr}
+Ernst Fehr, Helen Bernhard, and Bettina Rockenbach.
+\newblock Egalitarianism in young children.
+\newblock \emph{Nature}, 2008.
+
+\bibitem[Fehr et~al.(2013)Fehr, Glätzle-Rützler, and Sutter]{fehr2}
+Ernst Fehr, Daniela Glätzle-Rützler, and Matthias Sutter.
+\newblock The development of egalitarianism, altruism, spite and parochialism
+  in childhood and adolescence.
+\newblock \emph{European Economic Review}, 2013.
+
+\bibitem[Kogut(2012)]{kogut}
+Tehila Kogut.
+\newblock Knowing what i should, doing what i want: From selfishness to
+  inequity aversion in young children’s sharing behavior.
+\newblock \emph{Journal of Economic Psychology}, 2012.
+
+\end{thebibliography}

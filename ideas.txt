@@ -1,0 +1,16 @@
+ideas:
+cooperation reached vs p(coop)^2 (0.9*0.9 => 0.81?)
+ex-ante coop (first round)
+
+p coop and cooperation reached in those conditions
+{
+  coop reaction (second, third round after coop in the previous round)
+  uncooperation reaction (second, third round after both did not cooperate)
+  owned reaction (second, third round after p1 cooperated and p2 did not (worst outcome for p1))
+}
+
+final reaction as a standalone (selfish individuals or inequity averse?)
+
+standard MM, FF, MF behaviour?
+
+SES significance?

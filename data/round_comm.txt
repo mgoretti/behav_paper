@@ -1,0 +1,31 @@
+		(1)	(2)	(3)
+VARIABLES	LABELS	y1	y1	y1
+				
+own_age	j1_age	0.024**	0.011	0.034***
+		(0.010)	(0.013)	(0.013)
+_IgroupGend_1	groupGender==1	0.135***	0.091	0.175**
+		(0.048)	(0.061)	(0.071)
+_IgroupGend_2	groupGender==2	0.063	0.006	0.110
+		(0.049)	(0.065)	(0.071)
+_IgroupGend_3	groupGender==3	0.117**	0.057	0.168**
+		(0.049)	(0.064)	(0.072)
+_Iround_2	round==2	-0.033	-0.065	0.000
+		(0.046)	(0.063)	(0.066)
+_Iround_3	round==3	-0.039	-0.065	-0.011
+		(0.044)	(0.070)	(0.051)
+_IgroXrou_1_2	groupGender==1 & round==2	-0.092	-0.097	-0.081
+		(0.064)	(0.090)	(0.091)
+_IgroXrou_1_3	groupGender==1 & round==3	-0.048	-0.131	0.022
+		(0.062)	(0.094)	(0.083)
+_IgroXrou_2_2	groupGender==2 & round==2	-0.065	0.038	-0.162*
+		(0.065)	(0.087)	(0.094)
+_IgroXrou_2_3	groupGender==2 & round==3	0.005	0.073	-0.064
+		(0.067)	(0.099)	(0.088)
+_IgroXrou_3_2	groupGender==3 & round==2	-0.064	0.008	-0.134
+		(0.071)	(0.095)	(0.102)
+_IgroXrou_3_3	groupGender==3 & round==3	-0.081	-0.114	-0.072
+		(0.067)	(0.100)	(0.090)
+				
+Observations		2,394	1,132	1,262
+Standard errors in parentheses				
+*** p<0.01, ** p<0.05, * p<0.1				
